@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CA74759F-53E2-4AAC-95F2-C7D8D1663EF8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatGPT/Program.cs">
+    <Files>
+      <File FileName="ChatGPT/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatGPT" expanded="True">
+            <Node name="ChatGPT" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChatGPT PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
